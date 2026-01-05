@@ -1,7 +1,6 @@
 FROM ubuntu:16.04
 
 MAINTAINER Matthias Leuffen <leuffen@continue.de>
-MAINTAINER Laurenz Gohr <gohr@continue.de>
 
 
 ARG SKIP_COMPOSER_UPDATE="0"
